@@ -1,2 +1,0 @@
-# DaHoodScriptFashion
-da hood script.
